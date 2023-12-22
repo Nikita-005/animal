@@ -1,8 +1,7 @@
-Это тестовый файл
-ssasaasa
-
-as
-asasasasasa
-
-vcv
-asqasaasas
+[
+    {"type":"herbivor","name":"Конь", "age": 4 },
+    {"type":"animal","name":"Слон","age": 45},
+    {"type":"wolf","name":"Волк","age": 3,"teethLengt":10},
+    {"type":"predator","name":"Тигр","age": 7, "teethLengt":15},
+    {"type":"herbivor","name":"Козел","age": 4}
+]
